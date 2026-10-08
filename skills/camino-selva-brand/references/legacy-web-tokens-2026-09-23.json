@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 2,
+  "brand": "Camino Selva",
+  "paletteVersion": "web-2026-09-23",
+  "scope": "web-and-applications",
+  "status": "Paleta web indicada por Diseño; excepción provisional documentada en lima 700",
+  "source": "../references/camino-selva-web-colors-2026-09-23.pdf",
+  "colorProvenance": "Códigos y rellenos vectoriales de Frame 14 (1).pdf. Ver web-color-provenance.json para inconsistencias de etiquetas.",
+  "colors": {
+    "green": {
+      "hex": "#19542C",
+      "scale": "green",
+      "level": "500"
+    },
+    "forest": {
+      "hex": "#19542C",
+      "aliasOf": "green",
+      "note": "Alias compatible; no es el antiguo verde #005841"
+    },
+    "lime": {
+      "hex": "#B7E768",
+      "scale": "lime",
+      "level": "500"
+    },
+    "bronze": {
+      "hex": "#E5B25D",
+      "scale": "bronze",
+      "level": "500"
+    },
+    "orange": {
+      "hex": "#F6511D",
+      "evidence": "Relleno vectorial; etiqueta superior incorrecta"
+    }
+  },
+  "scales": {
+    "green": {
+      "50": "#F0F4F1",
+      "100": "#D9E8DD",
+      "200": "#B3D1BC",
+      "300": "#7FBBA6",
+      "400": "#4BA590",
+      "500": "#19542C",
+      "600": "#0E4922",
+      "700": "#0A381A",
+      "800": "#053012",
+      "900": "#021009"
+    },
+    "lime": {
+      "50": "#F9FCEE",
+      "100": "#F0F9D0",
+      "200": "#E3F3A1",
+      "300": "#D4ED72",
+      "400": "#C3E743",
+      "500": "#B7E768",
+      "600": "#9ACC34",
+      "700": "#7BA726",
+      "800": "#5F8A1F",
+      "900": "#2D3F0A"
+    },
+    "bronze": {
+      "50": "#FEFBF3",
+      "100": "#FBF3E0",
+      "200": "#F7E5BA",
+      "300": "#F2D691",
+      "400": "#EDC568",
+      "500": "#E5B25D",
+      "600": "#D89939",
+      "700": "#C17E28",
+      "800": "#A86620",
+      "900": "#4A2F0F"
+    }
+  },
+  "unresolved": [
+    {
+      "token": "lime.700",
+      "status": "provisional_label_preferred",
+      "printedHex": "#7BA726",
+      "vectorFillHex": "#5F8A1F",
+      "usedHex": "#7BA726",
+      "reason": "La etiqueta y el relleno difieren. Se usa provisionalmente el HEX escrito; el relleno repite lima 800.",
+      "pending": "Confirmación del área de Diseño sobre lima 700"
+    }
+  ],
+  "documentedFonts": {
+    "institutional": "Seitu",
+    "roadInformation": "New Transport",
+    "digital": "Inter"
+  },
+  "proposedSemanticAliases": {
+    "surface": "green.50",
+    "text": "green.900",
+    "primary": "green.500",
+    "onPrimary": "green.50",
+    "accent": "lime.500",
+    "tertiary": "bronze.500"
+  },
+  "proposedFontStacks": {
+    "institutional": "\"Seitu\", \"Inter\", system-ui, sans-serif",
+    "roadInformation": "\"New Transport\", \"Inter\", system-ui, sans-serif",
+    "digital": "\"Inter\", system-ui, -apple-system, \"Segoe UI\", sans-serif"
+  },
+  "fontFilesIncluded": false
+}

@@ -1,0 +1,53 @@
+{
+  "inspectedAt": "2026-10-01",
+  "figmaUrl": "https://www.figma.com/design/o6gDmCfcxPq2gyouEvOHQ3/Sitio-web-Camino-Selva",
+  "page": "Design System",
+  "fundamentalsNode": "587-8018",
+  "pdfSha256": "753bd0848e3e5fb09597090c29ed68590a9c553646d928b5e459377e80419973",
+  "pdfFile": "../references/figma-fundamentos-2026-10-01.pdf",
+  "method": "Chrome extension, UI descriptions/properties and PDF export",
+  "relatedNodes": {
+    "Header": "576-295",
+    "MenuMobile": "577-1044",
+    "Footer": "577-1043",
+    "Button": "570-1242",
+    "TextField": "570-2014",
+    "Radio": "573-67",
+    "Alert": "574-59",
+    "Modal": "574-60",
+    "StationCard": "570-1776",
+    "DesktopHover": "147-120",
+    "MobileHero": "595-4022",
+    "MobileNotes": "598-7654"
+  },
+  "limits": [
+    "Not the complete Figma file export",
+    "No fonts or full icon library included",
+    "No application, responsive runtime or WCAG certification tested",
+    "Original Figma unchanged"
+  ],
+  "legacyColorProvenance": "web-color-provenance.json",
+  "userSuppliedMenus": [
+    {
+      "file": "../references/menu-atencion-desktop.pdf",
+      "originalName": "Menú Atención (desktop).pdf",
+      "sha256": "624e70a50752ac27f18d90acd1af823e0d25025524e49514d7d6348148cf7db5",
+      "pages": 1,
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "file": "../references/menu-nosotros-desktop.pdf",
+      "originalName": "Menú Nosotros (desktop).pdf",
+      "sha256": "4c79d38be0e6335f43e307ab662734ef050470fff841bb93dee99483a8a4609a",
+      "pages": 1,
+      "reviewedAt": "2026-10-01"
+    },
+    {
+      "file": "../references/menu-tarifas-mvp-desktop.pdf",
+      "originalName": "Menú Tarifas MVP (desktop).pdf",
+      "sha256": "de0b4b1f56699df3707fcba481547f23a37ef96811e63b5dce7b95f4d46d0277",
+      "pages": 1,
+      "reviewedAt": "2026-10-01"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+/* Camino Selva: paleta web indicada por Diseño, recibida el 2026-09-23.
+   Fuente: Frame 14 (1).pdf; sustituye los colores del anteproyecto para web.
+   Lima 700 usa provisionalmente el HEX impreso; ver references/web-palette.md.
+   Los alias semánticos y las pilas tipográficas son propuestas de implementación.
+   No incluye archivos de fuentes ni reglas @font-face. */
+:root {
+  --cs-green-50: #F0F4F1;
+  --cs-green-100: #D9E8DD;
+  --cs-green-200: #B3D1BC;
+  --cs-green-300: #7FBBA6;
+  --cs-green-400: #4BA590;
+  --cs-green-500: #19542C;
+  --cs-green-600: #0E4922;
+  --cs-green-700: #0A381A;
+  --cs-green-800: #053012;
+  --cs-green-900: #021009;
+
+  --cs-lime-50: #F9FCEE;
+  --cs-lime-100: #F0F9D0;
+  --cs-lime-200: #E3F3A1;
+  --cs-lime-300: #D4ED72;
+  --cs-lime-400: #C3E743;
+  --cs-lime-500: #B7E768;
+  --cs-lime-600: #9ACC34;
+  --cs-lime-700: #7BA726;
+  --cs-lime-800: #5F8A1F;
+  --cs-lime-900: #2D3F0A;
+
+  --cs-bronze-50: #FEFBF3;
+  --cs-bronze-100: #FBF3E0;
+  --cs-bronze-200: #F7E5BA;
+  --cs-bronze-300: #F2D691;
+  --cs-bronze-400: #EDC568;
+  --cs-bronze-500: #E5B25D;
+  --cs-bronze-600: #D89939;
+  --cs-bronze-700: #C17E28;
+  --cs-bronze-800: #A86620;
+  --cs-bronze-900: #4A2F0F;
+
+  --cs-green: var(--cs-green-500);
+  --cs-forest: var(--cs-green-500);
+  --cs-lime: var(--cs-lime-500);
+  --cs-bronze: var(--cs-bronze-500);
+  --cs-orange: #F6511D;
+
+  --cs-surface: var(--cs-green-50);
+  --cs-text: var(--cs-green-900);
+  --cs-primary: var(--cs-green-500);
+  --cs-on-primary: var(--cs-green-50);
+  --cs-accent: var(--cs-lime-500);
+  --cs-tertiary: var(--cs-bronze-500);
+
+  --cs-font-institutional: "Seitu", "Inter", system-ui, sans-serif;
+  --cs-font-road: "New Transport", "Inter", system-ui, sans-serif;
+  --cs-font-digital: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+}

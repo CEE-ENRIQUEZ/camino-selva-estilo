@@ -1,0 +1,229 @@
+{
+  "source_sha256": "60fd28cefacb45fbfea1323c6f743fef55eef42b50e2d3cd9dabd1ff1926ec52",
+  "assets": [
+    {
+      "file": "logos/logo-stacked-green.svg",
+      "page": 3,
+      "bbox": [
+        275.0898,
+        209.51440000000002,
+        684.9108,
+        330.4856
+      ],
+      "path_count": 19,
+      "color": "#005841"
+    },
+    {
+      "file": "logos/logo-stacked-cream.svg",
+      "page": 3,
+      "bbox": [
+        275.0898,
+        209.51440000000002,
+        684.9108,
+        330.4856
+      ],
+      "path_count": 19,
+      "color": "#FEFADF"
+    },
+    {
+      "file": "logos/symbol-green.svg",
+      "page": 3,
+      "bbox": [
+        275.0898,
+        209.51440000000002,
+        397.1388,
+        330.4856
+      ],
+      "path_count": 7,
+      "color": "#005841"
+    },
+    {
+      "file": "logos/symbol-cream.svg",
+      "page": 3,
+      "bbox": [
+        275.0898,
+        209.51440000000002,
+        397.1388,
+        330.4856
+      ],
+      "path_count": 7,
+      "color": "#FEFADF"
+    },
+    {
+      "file": "logos/logo-horizontal-green.svg",
+      "page": 4,
+      "bbox": [
+        50.9,
+        402.1404,
+        296.8823,
+        450.9946
+      ],
+      "path_count": 19,
+      "color": "#005841"
+    },
+    {
+      "file": "logos/logo-horizontal-cream.svg",
+      "page": 4,
+      "bbox": [
+        50.9,
+        402.1404,
+        296.8823,
+        450.9946
+      ],
+      "path_count": 19,
+      "color": "#FEFADF"
+    },
+    {
+      "file": "logos/logo-vertical-green.svg",
+      "page": 4,
+      "bbox": [
+        656.5887,
+        346.0683,
+        763.5166,
+        450.56309999999996
+      ],
+      "path_count": 19,
+      "color": "#005841"
+    },
+    {
+      "file": "logos/logo-vertical-cream.svg",
+      "page": 4,
+      "bbox": [
+        656.5887,
+        346.0683,
+        763.5166,
+        450.56309999999996
+      ],
+      "path_count": 19,
+      "color": "#FEFADF"
+    },
+    {
+      "file": "logos/web/logo-stacked-green.svg",
+      "page": 3,
+      "bbox": [
+        275.0898,
+        209.51440000000002,
+        684.9108,
+        330.4856
+      ],
+      "path_count": 19,
+      "color": "#19542C",
+      "derivedFrom": "logos/logo-stacked-green.svg",
+      "colorSource": "../references/camino-selva-web-colors-2026-09-23.pdf",
+      "adaptation": "Recolor de implementación; geometría sin cambios",
+      "status": "primary-web-color"
+    },
+    {
+      "file": "logos/web/logo-stacked-light.svg",
+      "page": 3,
+      "bbox": [
+        275.0898,
+        209.51440000000002,
+        684.9108,
+        330.4856
+      ],
+      "path_count": 19,
+      "color": "#F0F4F1",
+      "derivedFrom": "logos/logo-stacked-green.svg",
+      "colorSource": "../references/camino-selva-web-colors-2026-09-23.pdf",
+      "adaptation": "Recolor de implementación; geometría sin cambios",
+      "status": "proposed-light-web-variant"
+    },
+    {
+      "file": "logos/web/symbol-green.svg",
+      "page": 3,
+      "bbox": [
+        275.0898,
+        209.51440000000002,
+        397.1388,
+        330.4856
+      ],
+      "path_count": 7,
+      "color": "#19542C",
+      "derivedFrom": "logos/symbol-green.svg",
+      "colorSource": "../references/camino-selva-web-colors-2026-09-23.pdf",
+      "adaptation": "Recolor de implementación; geometría sin cambios",
+      "status": "primary-web-color"
+    },
+    {
+      "file": "logos/web/symbol-light.svg",
+      "page": 3,
+      "bbox": [
+        275.0898,
+        209.51440000000002,
+        397.1388,
+        330.4856
+      ],
+      "path_count": 7,
+      "color": "#F0F4F1",
+      "derivedFrom": "logos/symbol-green.svg",
+      "colorSource": "../references/camino-selva-web-colors-2026-09-23.pdf",
+      "adaptation": "Recolor de implementación; geometría sin cambios",
+      "status": "proposed-light-web-variant"
+    },
+    {
+      "file": "logos/web/logo-horizontal-green.svg",
+      "page": 4,
+      "bbox": [
+        50.9,
+        402.1404,
+        296.8823,
+        450.9946
+      ],
+      "path_count": 19,
+      "color": "#19542C",
+      "derivedFrom": "logos/logo-horizontal-green.svg",
+      "colorSource": "../references/camino-selva-web-colors-2026-09-23.pdf",
+      "adaptation": "Recolor de implementación; geometría sin cambios",
+      "status": "primary-web-color"
+    },
+    {
+      "file": "logos/web/logo-horizontal-light.svg",
+      "page": 4,
+      "bbox": [
+        50.9,
+        402.1404,
+        296.8823,
+        450.9946
+      ],
+      "path_count": 19,
+      "color": "#F0F4F1",
+      "derivedFrom": "logos/logo-horizontal-green.svg",
+      "colorSource": "../references/camino-selva-web-colors-2026-09-23.pdf",
+      "adaptation": "Recolor de implementación; geometría sin cambios",
+      "status": "proposed-light-web-variant"
+    },
+    {
+      "file": "logos/web/logo-vertical-green.svg",
+      "page": 4,
+      "bbox": [
+        656.5887,
+        346.0683,
+        763.5166,
+        450.56309999999996
+      ],
+      "path_count": 19,
+      "color": "#19542C",
+      "derivedFrom": "logos/logo-vertical-green.svg",
+      "colorSource": "../references/camino-selva-web-colors-2026-09-23.pdf",
+      "adaptation": "Recolor de implementación; geometría sin cambios",
+      "status": "primary-web-color"
+    },
+    {
+      "file": "logos/web/logo-vertical-light.svg",
+      "page": 4,
+      "bbox": [
+        656.5887,
+        346.0683,
+        763.5166,
+        450.56309999999996
+      ],
+      "path_count": 19,
+      "color": "#F0F4F1",
+      "derivedFrom": "logos/logo-vertical-green.svg",
+      "colorSource": "../references/camino-selva-web-colors-2026-09-23.pdf",
+      "adaptation": "Recolor de implementación; geometría sin cambios",
+      "status": "proposed-light-web-variant"
+    }
+  ]
+}

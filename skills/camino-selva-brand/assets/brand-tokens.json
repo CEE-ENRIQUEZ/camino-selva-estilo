@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 3,
+  "brand": "Camino Selva",
+  "version": "figma-inspected-2026-10-01",
+  "scope": "web-and-applications",
+  "source": {
+    "url": "https://www.figma.com/design/o6gDmCfcxPq2gyouEvOHQ3/Sitio-web-Camino-Selva?node-id=587-8018",
+    "page": "Design System",
+    "frame": "Fundamentos",
+    "snapshot": "../references/figma-fundamentos-2026-10-01.pdf",
+    "inspectedAt": "2026-10-01",
+    "method": "Chrome extension UI inspection and native Figma PDF export"
+  },
+  "status": "Valores de la documentación de Figma; no equivale a una auditoría de implementación ni certificación WCAG.",
+  "primitives": {
+    "verde": {
+      "50": "#F9FCEE",
+      "100": "#FEFADF",
+      "200": "#B3D1BC",
+      "500": "#315743",
+      "700": "#19542C",
+      "900": "#0E4922"
+    },
+    "lima": {
+      "100": "#E3F3A1",
+      "400": "#B7E768",
+      "600": "#9ACC34",
+      "700": "#7BA726",
+      "800": "#5F8A1F"
+    },
+    "oro": {
+      "100": "#F7E5BA",
+      "400": "#E5B25D",
+      "600": "#D89939"
+    },
+    "naranja": {
+      "100": "#FFC0A3",
+      "500": "#F6511D",
+      "600": "#E64310",
+      "700": "#C2410C"
+    },
+    "cobre": {
+      "500": "#C27A41",
+      "700": "#9A5B2A"
+    },
+    "azul": {
+      "600": "#004E89",
+      "700": "#074170"
+    },
+    "rojo": {
+      "50": "#FBEAE8",
+      "700": "#B3261E"
+    },
+    "neutro": {
+      "0": "#FFFFFF",
+      "50": "#F3F3F3",
+      "100": "#D9DEDA",
+      "400": "#7D8780",
+      "500": "#6B756E",
+      "600": "#5F6A63",
+      "800": "#333333",
+      "900": "#242424",
+      "950": "#1C2620",
+      "1000": "#000000"
+    }
+  },
+  "semantic": {
+    "fondo": {
+      "pagina": "neutro/50",
+      "superficie": "neutro/0",
+      "marca": "verde/700",
+      "marca-fuerte": "verde/900",
+      "acento": "lima/400",
+      "acento-suave": "lima/100",
+      "crema": "verde/50",
+      "crema-calida": "verde/100",
+      "oscuro": "neutro/800",
+      "oscuro-fuerte": "neutro/900",
+      "emergencia": "azul/700",
+      "alerta": "naranja/500",
+      "accion-secundaria": "cobre/700",
+      "error-suave": "rojo/50",
+      "deshabilitado": "neutro/100"
+    },
+    "texto": {
+      "primario": "neutro/950",
+      "secundario": "neutro/600",
+      "placeholder": "neutro/500",
+      "marca": "verde/700",
+      "marca-fuerte": "verde/900",
+      "error": "rojo/700",
+      "link": "verde/700",
+      "sobre-marca": "neutro/0",
+      "acento-sobre-marca": "lima/400",
+      "destacado-sobre-marca": "oro/400",
+      "sobre-acento": "verde/900",
+      "link-sobre-oscuro": "lima/400"
+    },
+    "borde": {
+      "sutil": "neutro/100",
+      "fuerte": "neutro/400",
+      "marca": "verde/700",
+      "error": "rojo/700",
+      "foco": "verde/900",
+      "acento": "lima/400",
+      "sobre-oscuro": "neutro/0",
+      "foco-sobre-oscuro": "lima/400"
+    }
+  },
+  "typography": {
+    "Display/XL": {
+      "family": "Inter",
+      "weight": 800,
+      "sizePx": 96,
+      "lineHeight": 1.1
+    },
+    "Título/H1": {
+      "family": "Inter",
+      "weight": 800,
+      "sizePx": 64,
+      "lineHeight": 1.15
+    },
+    "Título/H2": {
+      "family": "Inter",
+      "weight": 800,
+      "sizePx": 48,
+      "lineHeight": 1.2
+    },
+    "Título/H3": {
+      "family": "Inter",
+      "weight": 700,
+      "sizePx": 32,
+      "lineHeight": 1.25
+    },
+    "Título/H4": {
+      "family": "Space Grotesk",
+      "weight": 700,
+      "sizePx": 24,
+      "lineHeight": 1.4
+    },
+    "Título/H5": {
+      "family": "Inter",
+      "weight": 700,
+      "sizePx": 20,
+      "lineHeight": 1.5
+    },
+    "Texto/Lead": {
+      "family": "Inter",
+      "weight": 400,
+      "sizePx": 24,
+      "lineHeight": 1.5,
+      "paragraphSpacingPx": 54
+    },
+    "Texto/Cuerpo L": {
+      "family": "Inter",
+      "weight": 400,
+      "sizePx": 20,
+      "lineHeight": 1.5,
+      "paragraphSpacingPx": 45
+    },
+    "Texto/Cuerpo M": {
+      "family": "Inter",
+      "weight": 400,
+      "sizePx": 16,
+      "lineHeight": 1.5,
+      "paragraphSpacingPx": 36
+    },
+    "Texto/Cuerpo M Bold": {
+      "family": "Inter",
+      "weight": 700,
+      "sizePx": 16,
+      "lineHeight": 1.5,
+      "paragraphSpacingPx": 36
+    },
+    "Texto/Nota": {
+      "family": "Inter",
+      "weight": 400,
+      "sizePx": 14,
+      "lineHeight": 1.5
+    },
+    "Texto/Legal": {
+      "family": "Space Grotesk",
+      "weight": 400,
+      "sizePx": 12,
+      "lineHeight": 1.5
+    },
+    "UI/Nav": {
+      "family": "Space Grotesk",
+      "weight": 500,
+      "sizePx": 16,
+      "lineHeight": 1.5
+    },
+    "UI/Botón": {
+      "family": "Space Grotesk",
+      "weight": 700,
+      "sizePx": 16,
+      "lineHeight": 1.2,
+      "textTransform": "uppercase"
+    },
+    "UI/Eyebrow": {
+      "family": "Space Grotesk",
+      "weight": 700,
+      "sizePx": 14,
+      "lineHeight": 1.5,
+      "textTransform": "uppercase"
+    },
+    "UI/Label": {
+      "family": "Space Grotesk",
+      "weight": 400,
+      "sizePx": 14,
+      "lineHeight": 1.5
+    },
+    "UI/Dato": {
+      "family": "Space Grotesk",
+      "weight": 700,
+      "sizePx": 40,
+      "lineHeight": 1.2
+    },
+    "Mobile/Display": {
+      "family": "Inter",
+      "weight": 800,
+      "sizePx": 48,
+      "lineHeight": 1.1
+    },
+    "Mobile/H1": {
+      "family": "Inter",
+      "weight": 800,
+      "sizePx": 40,
+      "lineHeight": 1.15
+    },
+    "Mobile/H2": {
+      "family": "Inter",
+      "weight": 800,
+      "sizePx": 32,
+      "lineHeight": 1.2
+    },
+    "Texto/Cuerpo L Bold": {
+      "family": "Inter",
+      "weight": 700,
+      "sizePx": 20,
+      "lineHeight": 1.5,
+      "paragraphSpacingPx": 45
+    },
+    "UI/Cuerpo": {
+      "family": "Space Grotesk",
+      "weight": 400,
+      "sizePx": 16,
+      "lineHeight": 1.5
+    },
+    "UI/Link sección": {
+      "family": "Space Grotesk",
+      "weight": 500,
+      "sizePx": 16,
+      "lineHeight": 1.5,
+      "textTransform": "uppercase"
+    },
+    "UI/Chip": {
+      "family": "Space Grotesk",
+      "weight": 700,
+      "sizePx": 14,
+      "lineHeight": 1.2
+    },
+    "UI/Número destacado": {
+      "family": "Space Grotesk",
+      "weight": 700,
+      "sizePx": 28,
+      "lineHeight": 1
+    }
+  },
+  "spacingPx": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    32,
+    40,
+    48,
+    64,
+    80,
+    120
+  ],
+  "radiusPx": {
+    "0": 0,
+    "sm": 4,
+    "md": 10,
+    "lg": 16,
+    "xl": 24,
+    "pill": 999
+  },
+  "focus": {
+    "widthPx": 3,
+    "offsetPx": 2,
+    "onLight": "borde/foco",
+    "onDark": "borde/foco-sobre-oscuro"
+  },
+  "targetsPx": {
+    "documentedMinimum": 24,
+    "recommended": 44,
+    "buttonMinHeight": 44
+  },
+  "elevation": {
+    "2": {
+      "xPx": 0,
+      "yPx": 8,
+      "blurPx": 24,
+      "spreadPx": 0,
+      "color": "#1C2621",
+      "opacity": 0.14,
+      "evidence": "Inspector de Modal 574-60 y Card estación 570-1776"
+    }
+  },
+  "documentedFonts": {
+    "digitalText": "Inter",
+    "digitalUI": "Space Grotesk",
+    "institutionalOtherMedia": "Seitu",
+    "roadInformationOtherMedia": "New Transport"
+  },
+  "fontFilesIncluded": false,
+  "implementationDecisions": {
+    "texto/sobre-alerta": {
+      "primitive": "neutro/1000",
+      "status": "Nombre desambiguado por la skill. Figma imprime texto/sobre-marca duplicado para este negro y muestra texto blanco en la muestra naranja. Revisar references/figma-design-system.md."
+    }
+  },
+  "migration": {
+    "legacyTokens": "../references/legacy-web-tokens-2026-09-23.json",
+    "renumberedPrimitives": true,
+    "note": "No sustituir escalas por número. Verde de marca pasa de green.500 a verde/700; lima principal de lime.500 a lima/400. Revisar por función."
+  },
+  "unresolved": [
+    {
+      "issue": "duplicate-texto-sobre-marca",
+      "detail": "Blanco sobre verde y negro sobre naranja comparten rótulo en la lámina. Conservar sobre-marca blanco; alias local sobre-alerta negro separado."
+    },
+    {
+      "issue": "elevation-1",
+      "detail": "Uso documentado para cards; no se extrajeron valores numéricos del efecto 1."
+    }
+  ]
+}

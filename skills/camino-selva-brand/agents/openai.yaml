@@ -1,0 +1,4 @@
+interface:
+  display_name: "Camino Selva · Identidad visual"
+  short_description: "Aplicar la identidad de Camino Selva en proyectos"
+  default_prompt: "Usá $camino-selva-brand para aplicar la identidad visual de Camino Selva a este proyecto."

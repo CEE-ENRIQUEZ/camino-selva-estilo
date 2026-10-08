@@ -1,0 +1,14 @@
+# Archivos de trabajo temporales y dependencias de las herramientas locales.
+/tmp/
+__pycache__/
+*.py[cod]
+
+# Metadatos locales del sistema operativo.
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Configuración privada local, si se agrega más adelante.
+.env
+.env.*
+!.env.example
