@@ -1,0 +1,891 @@
+{
+  "source": "Diseño Shakespear, originales de marca Camino Selva",
+  "sourceFolder": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201",
+  "sourceCommit": "c364b6848eba63a3e684127a19a30b11bd475e31",
+  "reorganizedAt": "2026-10-14",
+  "reason": "Rutas cortas para extraer las descargas en Windows; sin modificar el contenido de los originales.",
+  "files": [
+    {
+      "path": "originales/01-h2-bajada/byn/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/ByN/Isologotipo horizontal en dos líneas con bajada - ByN - Pantone.ai",
+      "sha256": "ec67e26054c2222b760eea97f9645130f9e86b2de884c9d24f247d7fbc7a2c15",
+      "sourceGitBlob": "40b0c764d67566a7c839f20ca2c02fa1b97e052a"
+    },
+    {
+      "path": "originales/01-h2-bajada/byn/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/ByN/Isologotipo horizontal en dos líneas con bajada - ByN- CMYK.ai",
+      "sha256": "8cdfbb39600c1b8853bc5247ba2a2256f6b9f737cd07df7da5f542b1868aa127",
+      "sourceGitBlob": "f23d9f9549fb2b5db73f1a843ce09e6436a2d11d"
+    },
+    {
+      "path": "originales/01-h2-bajada/byn/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/ByN/Isologotipo horizontal en dos líneas con bajada - ByN.jpg",
+      "sha256": "9b098f2a3d362b82286fc91e31df4d6c783060da0a5e8d4688f5601069929028",
+      "sourceGitBlob": "992bc4cf71ecb75ce001b77a8775298709089c8a"
+    },
+    {
+      "path": "originales/01-h2-bajada/byn/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/ByN/Isologotipo horizontal en dos líneas con bajada - ByN.png",
+      "sha256": "0b9f413ce2d77f1c7a4a3f2c680100d0502b9d516b278fe871a1752ebef569c6",
+      "sourceGitBlob": "e483b940dcdd1d6ed6fd15aad9e6a61d570e74f7"
+    },
+    {
+      "path": "originales/01-h2-bajada/byn/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/ByN/Isologotipo horizontal en dos líneas con bajada - ByN.svg",
+      "sha256": "793cbc2a5cbe5942c5db3c1a5078666fafe0dd23d91d96c191b16627da48be63",
+      "sourceGitBlob": "52e2e8cf24716eb8fecf61ea8604a78f4d9a2087"
+    },
+    {
+      "path": "originales/01-h2-bajada/principal/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color principal/Isologotipo horizontal en dos líneas con bajada - Color principal.jpg",
+      "sha256": "c0f18cfbf574af95e8b05c0a39682931b14ff41858b359e4558b7b7132452fb6",
+      "sourceGitBlob": "05864fe3490c4f992af90f6b11ec807dce12750b",
+      "previousLocalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color principal/Isologotipo horizontal en dos líneas con bajada  Color .jpg"
+    },
+    {
+      "path": "originales/01-h2-bajada/principal/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color principal/Isologotipo horizontal en dos líneas con bajada - Color principal.png",
+      "sha256": "f0aad1d7dc14d931314a657e0c53cfc961991f067cefe7505a5fd256baa63f20",
+      "sourceGitBlob": "46d886cdb6c4c8ca74b9cab4da288398cd76c971",
+      "previousLocalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color principal/Isologotipo horizontal en dos líneas con bajada  Color .png"
+    },
+    {
+      "path": "originales/01-h2-bajada/principal/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color principal/Isologotipo horizontal en dos líneas con bajada - Color principal- CMYK.ai",
+      "sha256": "f526cc476bc5e7f525b2f144c02086932d91116981192e991cf3b6326d63d8f1",
+      "sourceGitBlob": "26e34a412c15186ec09f4d9b92eae15f592268f8",
+      "previousLocalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color principal/Isologotipo horizontal en dos líneas con bajada  Color CMYK.ai"
+    },
+    {
+      "path": "originales/01-h2-bajada/principal/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color principal/Isologotipo horizontal en dos líneas con bajada - Color principal - Pantone.ai",
+      "sha256": "f897ea609f3894db40ccc278bea101beb5465784036c074eed3ad4f84fc200c4",
+      "sourceGitBlob": "467d90ab34e84efc4215bfbfefb2c3514ad89394",
+      "previousLocalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color principal/Isologotipo horizontal en dos líneas con bajada  Color Pantone.ai"
+    },
+    {
+      "path": "originales/01-h2-bajada/principal/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color principal/Isologotipo horizontal en dos líneas con bajada - Color principal.ai",
+      "sha256": "49edcef7f598fd197cc6487bb3a35b7d08e2f0311589090cab6871b858b95324",
+      "sourceGitBlob": "d8fff365323234b9978b60469c298801c0f4bfaf",
+      "previousLocalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color principal/Isologotipo horizontal en dos líneas con bajada  Color.ai"
+    },
+    {
+      "path": "originales/01-h2-bajada/principal/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color principal/Isologotipo horizontal en dos líneas con bajada - Color principal.svg",
+      "sha256": "d6bff3ec10609309ec73298189828dfe92c670ec3b27ed969f111a7db48fae86",
+      "sourceGitBlob": "5b4c4b4511b66516c6633ec44e8d44e0b3900ec6",
+      "previousLocalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color principal/Isologotipo horizontal en dos líneas con bajada Color.svg"
+    },
+    {
+      "path": "originales/01-h2-bajada/secundario/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color secundario/Isologotipo horizontal en dos líneas con bajada - Color secundario - Pantone.ai",
+      "sha256": "a4dc6f0d3b941c1aa0a5dd8064a243748c312026d55e758fe0f2303cdf6c911c",
+      "sourceGitBlob": "22e875d8fa47a725f4778562f9088f0dd5a73f5a"
+    },
+    {
+      "path": "originales/01-h2-bajada/secundario/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color secundario/Isologotipo horizontal en dos líneas con bajada - Color secundario- CMYK.ai",
+      "sha256": "c0b7c321a6e02b75fcf77a647af2dc78a00e7f5ddd2bc2d08796ebe7ef0121d7",
+      "sourceGitBlob": "5d73aa07654960726a62336ccfe0b813c989d4f0"
+    },
+    {
+      "path": "originales/01-h2-bajada/secundario/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color secundario/Isologotipo horizontal en dos líneas con bajada - Color secundario.ai",
+      "sha256": "180dcb87d7c42d259eb9add9ca08b0454b68a13bdc0a54f078ac301c4d8b85eb",
+      "sourceGitBlob": "b1a7fbd96cbe025584779236101fb67915def313"
+    },
+    {
+      "path": "originales/01-h2-bajada/secundario/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color secundario/Isologotipo horizontal en dos líneas con bajada - Color secundario.jpg",
+      "sha256": "3e4df4bc1c26a0f8eb66096f7db6e078edb637993ac2d7e901cd9d8e14b96579",
+      "sourceGitBlob": "27a20a6ff4320f8cd1d42e299e98a99c0fc79b88"
+    },
+    {
+      "path": "originales/01-h2-bajada/secundario/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color secundario/Isologotipo horizontal en dos líneas con bajada - Color secundario.png",
+      "sha256": "c3eb2138bab8cd1c48d5b4707dd6d0c16de869a6cf97a35d7c46929aa2e0ec49",
+      "sourceGitBlob": "e56ef5bc2a3e71397372dbbb4a5910a8a9ba0933"
+    },
+    {
+      "path": "originales/01-h2-bajada/secundario/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Color secundario/Isologotipo horizontal en dos líneas con bajada - Color secundario.svg",
+      "sha256": "6b194230ba7cb00713d15f1fde0fe44bf233daa8ec974db5f230c175fd075bb3",
+      "sourceGitBlob": "9a409da13caf7aa2e7deaaa830e9aa4f6b85d238"
+    },
+    {
+      "path": "originales/01-h2-bajada/negativo/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Negativo/Isologotipo horizontal en dos líneas con bajada - Negativo.ai",
+      "sha256": "d038e21482344451893f02d6050f20df41095cedad7edaeced398da7e9f35138",
+      "sourceGitBlob": "833719ac18a04b6f8071cadb42ec89268dbd8540"
+    },
+    {
+      "path": "originales/01-h2-bajada/negativo/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Negativo/Isologotipo horizontal en dos líneas con bajada - Negativo.png",
+      "sha256": "6d012da38201ddcdbab9669263b1f9867a7547ac458a542da67940cab25cfcd5",
+      "sourceGitBlob": "9e12e34a2435da3cd77413225046abec55c10cd0"
+    },
+    {
+      "path": "originales/01-h2-bajada/negativo/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/1. Isologotipo horizontal en dos líneas con bajada/Negativo/Isologotipo horizontal en dos líneas con bajada - Negativo.svg",
+      "sha256": "8b8a0c4e04d247d3576f41e8cfd53651c3b2aee96f1a9a4b734762e0d07c345d",
+      "sourceGitBlob": "2503236f8f413704aea768408269d8b61a7e07a6"
+    },
+    {
+      "path": "originales/02-vertical-bajada/byn/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/ByN/Isologotipo veritcal con bajada - ByN - Pantone.ai",
+      "sha256": "23b3b5c0dbe649d67c88cfe97af311c0f8dbcdca79f25a3c0f412fb02e62a166",
+      "sourceGitBlob": "0b5e856b99f5b62544bfa5cdb10fbc4b8001e5d7"
+    },
+    {
+      "path": "originales/02-vertical-bajada/byn/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/ByN/Isologotipo veritcal con bajada - ByN- CMYK.ai",
+      "sha256": "f7a042a293eb04e02d526fd80c69c5a386156d0e6e4a03fa9fcd00e9ca1c417a",
+      "sourceGitBlob": "af068b961b80521f1f7d7e2a0d3990a6e8840024"
+    },
+    {
+      "path": "originales/02-vertical-bajada/byn/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/ByN/Isologotipo vertical con bajada - ByN.ai",
+      "sha256": "48219c8a303977d26d411913a94d1655309491ba30f76e59e3453b36c1a42f71",
+      "sourceGitBlob": "5d7ed837c2abf406b7a4593dc3f6d509dc5e3ee3"
+    },
+    {
+      "path": "originales/02-vertical-bajada/byn/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/ByN/Isologotipo vertical con bajada - ByN.jpg",
+      "sha256": "7bafd463701b694a3940ecddbf03fa97c0940f540b9ae7940c53185048d2f595",
+      "sourceGitBlob": "7223221b6403994f1a627ca01767c1c6ac4dc735"
+    },
+    {
+      "path": "originales/02-vertical-bajada/byn/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/ByN/Isologotipo vertical con bajada - ByN.png",
+      "sha256": "7ba5a897df2c4968e99c9099f61c41eec027ab0df0026f71f6d53b4ca688a85b",
+      "sourceGitBlob": "228fea582391dd6aa44fbed639441a4838a99275"
+    },
+    {
+      "path": "originales/02-vertical-bajada/byn/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/ByN/Isologotipo vertical con bajada - ByN.svg",
+      "sha256": "1e91144f8420c200e4a893a641f2c63cec0d8bbb5d14287b2f4e9d63ee06d890",
+      "sourceGitBlob": "e21da40cf0022a024fed83b1f67337bd1e271e24"
+    },
+    {
+      "path": "originales/02-vertical-bajada/principal/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Color principal/Isologotipo veritcal con bajada  - Color principal - Pantone.ai",
+      "sha256": "c29f176f3de54099b4d32fdc07f5683796989cb2a17fa9de9b9fd9330f51e36d",
+      "sourceGitBlob": "288c76ac1797841a6c9c02fe3c5f3d5141f88075"
+    },
+    {
+      "path": "originales/02-vertical-bajada/principal/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Color principal/Isologotipo veritcal con bajada  - Color principal- CMYK.ai",
+      "sha256": "0bee957a9b7059a84e6249c2a56ebbb8d2cbef52d650501ed8b4bea9fd607d6a",
+      "sourceGitBlob": "08cc3fe108a6ecb1539c0d1af1b107cb2418e7af"
+    },
+    {
+      "path": "originales/02-vertical-bajada/principal/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Color principal/Isologotipo vertical con bajada  - Color principal.ai",
+      "sha256": "3198de5d3d38e0126179e62dee8d37f11feb690bcbc392d6f2ee0024a67cde52",
+      "sourceGitBlob": "415fd6417b24b0e1f0a34570cfe4891f27b04b8e"
+    },
+    {
+      "path": "originales/02-vertical-bajada/principal/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Color principal/Isologotipo vertical con bajada  - Color principal.jpg",
+      "sha256": "3e16a59c06ce464ef22c6c90d66134a03e9bb0449e5f7bce7f32bee3d8ea35a9",
+      "sourceGitBlob": "926c90c2117bf1a8b71227aaec7543e9fae13958"
+    },
+    {
+      "path": "originales/02-vertical-bajada/principal/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Color principal/Isologotipo vertical con bajada  - Color principal.png",
+      "sha256": "8ced9ab36f159911581efb9dfa0d4d484dc48e2e09d79aa16164f48fc4c67853",
+      "sourceGitBlob": "25ce849b03667df39c69eaabf354d8d25bb50265"
+    },
+    {
+      "path": "originales/02-vertical-bajada/principal/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Color principal/Isologotipo vertical con bajada  - Color principal.svg",
+      "sha256": "0949ee61648d57526a5fa8fc5248d3577387b64ab8efeb05f55bcba273c7227a",
+      "sourceGitBlob": "8381d2e63db323bb7b614428040d0188fc75d866"
+    },
+    {
+      "path": "originales/02-vertical-bajada/secundario/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Color secundario/Isologotipo veritcal con bajada - Color secundario - Pantone.ai",
+      "sha256": "0e62fbad248117c03037f9fa77b26793c560a5b39abb5400734c6aeb15dd562d",
+      "sourceGitBlob": "b877c475adc8d4693f9be4d54bc18638ea814843"
+    },
+    {
+      "path": "originales/02-vertical-bajada/secundario/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Color secundario/Isologotipo veritcal con bajada - Color secundario- CMYK.ai",
+      "sha256": "031b9b697553c075005c29065f565d824021813a9545f79ef8d4a6f33a2cf62b",
+      "sourceGitBlob": "252b3ae739ac0176a278a08d2a04454120571061"
+    },
+    {
+      "path": "originales/02-vertical-bajada/secundario/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Color secundario/Isologotipo vertical con bajada - Color secundario.ai",
+      "sha256": "01f0dbb0d717b862e4b63eb872f3905c3aa2d7c86814be1f69dcf10625c84a5e",
+      "sourceGitBlob": "1aa7d0eb731f69b908777c5083a0a44d573e4a54"
+    },
+    {
+      "path": "originales/02-vertical-bajada/secundario/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Color secundario/Isologotipo vertical con bajada - Color secundario.jpg",
+      "sha256": "622cdad6ca2fc065904296f760ce538617e77aa747a47507b081de879734004e",
+      "sourceGitBlob": "22fbdf9cef391aab9e2ad0c7e5238cece612e755"
+    },
+    {
+      "path": "originales/02-vertical-bajada/secundario/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Color secundario/Isologotipo vertical con bajada - Color secundario.png",
+      "sha256": "fd0af4ff6d60aea2e6007b15766db566fb1d6c9b9e3c5390e363f852c7c88737",
+      "sourceGitBlob": "161507d4be0886c81a3f579e093d6adc08d2a651"
+    },
+    {
+      "path": "originales/02-vertical-bajada/secundario/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Color secundario/Isologotipo vertical con bajada - Color secundario.svg",
+      "sha256": "ca83ec7f6c22892c40a7babf613c8ecd4a6dc0f49cad6684c60384cb76fd6a04",
+      "sourceGitBlob": "185725ab5fccc7edac4b8c90cfe0b8b8366eec4c"
+    },
+    {
+      "path": "originales/02-vertical-bajada/negativo/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Negativo/Isologotipo vertical con bajada - Negativo.ai",
+      "sha256": "04acb4ed9aa9df30a7c28fdcce56b0308e2434fba00babe9ad526b1adc387526",
+      "sourceGitBlob": "8b1d3753d38a481370df498cfc46a65d58ed36d6"
+    },
+    {
+      "path": "originales/02-vertical-bajada/negativo/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Negativo/Isologotipo vertical con bajada - Negativo.png",
+      "sha256": "3215ea49312f53fb5542e9d682b9d43d30f80fabc5bf058ed647601feaa6a628",
+      "sourceGitBlob": "48140555186bfa5d2348b3e345a0b962801ba341"
+    },
+    {
+      "path": "originales/02-vertical-bajada/negativo/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/2. Isologotipo vertical con bajada/Negativo/Isologotipo vertical con bajada - Negativo.svg",
+      "sha256": "d143fe20162317a8f8513d6546c0dc0b3f9b664cafa89c833e13dc5e1cdc5939",
+      "sourceGitBlob": "d5ff92c82e488d1bc56e05492800fdf002f70850"
+    },
+    {
+      "path": "originales/03-h1-bajada/byn/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/ByN/Isologotipo horizontal en una línea con bajada - ByN - Pantone.ai",
+      "sha256": "199b2c9acef5f91e10f1808b7456cca25c161f4a5fdbc263e289384307d6cc30",
+      "sourceGitBlob": "7ec317d90db108f8102950b6fdb325cba1494fa6"
+    },
+    {
+      "path": "originales/03-h1-bajada/byn/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/ByN/Isologotipo horizontal en una línea con bajada - ByN- CMYK.ai",
+      "sha256": "6c3fe942d0070e7225d9d70cb39786795f5cc5cd7196492472ade1178d793e15",
+      "sourceGitBlob": "fa2d456f159bd15becc3ee655c7ff1d245b07bb0"
+    },
+    {
+      "path": "originales/03-h1-bajada/byn/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/ByN/Isologotipo horizontal en una línea con bajada - ByN.ai",
+      "sha256": "205b9bd93de04e8e14253b1cd16d4aeaca9652f411916e3970262017d0154c0c",
+      "sourceGitBlob": "126dd870c782259c4ac6c191dbd42c20c9a76d79"
+    },
+    {
+      "path": "originales/03-h1-bajada/byn/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/ByN/Isologotipo horizontal en una línea con bajada - ByN.jpg",
+      "sha256": "003ea48c3f744aab13abd7bc58471f847725528d4007e6c69608725612c60069",
+      "sourceGitBlob": "da199299f7dfb3b9572f5a67714d5ebc787a1203"
+    },
+    {
+      "path": "originales/03-h1-bajada/byn/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/ByN/Isologotipo horizontal en una línea con bajada - ByN.png",
+      "sha256": "20443df832fc501ce55a8f717139b43a0fd6e271a0d4a8f13f94b0c81bbbd559",
+      "sourceGitBlob": "1d848ce99a60a25de40c25b02bd69330df41c8a2"
+    },
+    {
+      "path": "originales/03-h1-bajada/byn/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/ByN/Isologotipo horizontal en una línea con bajada - ByN.svg",
+      "sha256": "39561e5442efa5b934792b1807fd189091f1f62b3578421665bb7d1b0cd041b9",
+      "sourceGitBlob": "6388e51c6b4136f97d0172319c5e15b41ff0c09c"
+    },
+    {
+      "path": "originales/03-h1-bajada/principal/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Color principal/Isologotipo horizontal en una línea con bajada - Color principal - Pantone.ai",
+      "sha256": "c2a30ca7ced29ec196e87922f823a06b9a522f434f765326bd4da5e2db3bf252",
+      "sourceGitBlob": "351ab378cadb3b65fb65bd4f715800a1b68cea35"
+    },
+    {
+      "path": "originales/03-h1-bajada/principal/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Color principal/Isologotipo horizontal en una línea con bajada - Color principal- CMYK.ai",
+      "sha256": "ea883ec53166b824714e4ed8a52d680ea64e07525e452a1cd959cfc8cea841f9",
+      "sourceGitBlob": "53d301e4602b973aa4902d0476678d17bb4ef7b4"
+    },
+    {
+      "path": "originales/03-h1-bajada/principal/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Color principal/Isologotipo horizontal en una línea con bajada - Color principal.ai",
+      "sha256": "1960b70e82e440a010ced3c9cb840319678ea258f97e641020640764023a8fe3",
+      "sourceGitBlob": "0fa3fe1f8093a329f1251e5acb10dd0fb07630ab"
+    },
+    {
+      "path": "originales/03-h1-bajada/principal/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Color principal/Isologotipo horizontal en una línea con bajada - Color principal.jpg",
+      "sha256": "8cd186e6ff4023ce9a5f7e186f4beafd871a11b52da09228d3d84856641c9010",
+      "sourceGitBlob": "e4fd0bf7b03d4362f46663d0d02324013b7bcdd4"
+    },
+    {
+      "path": "originales/03-h1-bajada/principal/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Color principal/Isologotipo horizontal en una línea con bajada - Color principal.png",
+      "sha256": "85c86ac3f348eab00888801e23882865aa0a1d1e98edf826ee5cf2dd6dea3053",
+      "sourceGitBlob": "972c0006cf7658733179c18515e635163f6d420f"
+    },
+    {
+      "path": "originales/03-h1-bajada/principal/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Color principal/Isologotipo horizontal en una línea con bajada - Color principal.svg",
+      "sha256": "4b51530f9b102921c55a78766a0d073069587c09c563836b87afd4cf63647108",
+      "sourceGitBlob": "db3e16365b681a3c6df04fc6f284bb84b5707c2a"
+    },
+    {
+      "path": "originales/03-h1-bajada/secundario/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Color secundario/Isologotipo horizontal en una línea con bajada - Color secundario - Pantone.ai",
+      "sha256": "89847da8f6b136478f2b675d58d22a5132b4f5ab5e08082a62b249ebe50efd92",
+      "sourceGitBlob": "c9475e4b3584d81273c8384bc7a0bcb379ce987f"
+    },
+    {
+      "path": "originales/03-h1-bajada/secundario/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Color secundario/Isologotipo horizontal en una línea con bajada - Color secundario- CMYK.ai",
+      "sha256": "247c27a8b13ca27ac91f4d90718190597312b33c71cd2d56b46996233a082b1a",
+      "sourceGitBlob": "d98675a6aa93c0c4e025035f81cbc6d6faf22da1"
+    },
+    {
+      "path": "originales/03-h1-bajada/secundario/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Color secundario/Isologotipo horizontal en una línea con bajada - Color secundario.ai",
+      "sha256": "8c0912e00bfcd91821c63629a2b619f90c7f5b865b5e67be8932fd96d379047b",
+      "sourceGitBlob": "5707065cee716b42bdf1e2a5ffa09019753f7882"
+    },
+    {
+      "path": "originales/03-h1-bajada/secundario/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Color secundario/Isologotipo horizontal en una línea con bajada - Color secundario.jpg",
+      "sha256": "21d133d96267342cae4432d9a288ee8af34951d9458f259c1d4b2f4a5c736a8d",
+      "sourceGitBlob": "3673cbae45c74eb6509ab5df5963f9843412854c"
+    },
+    {
+      "path": "originales/03-h1-bajada/secundario/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Color secundario/Isologotipo horizontal en una línea con bajada - Color secundario.png",
+      "sha256": "66f3b02a2ed47d701877874ddaf9d01a48c6bfbcbac9a1f1f595575d7f23c3da",
+      "sourceGitBlob": "607688e93f693a407a9ca3dfeb7727f8312e511e"
+    },
+    {
+      "path": "originales/03-h1-bajada/secundario/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Color secundario/Isologotipo horizontal en una línea con bajada - Color secundario.svg",
+      "sha256": "9ba9454516c54b8f77104dfcb19d400d44b25e7d6c5601cda8f118c2f1b7aa5e",
+      "sourceGitBlob": "92c47c1357aead63e532f5f3d2532fe613d8ce49"
+    },
+    {
+      "path": "originales/03-h1-bajada/negativo/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Negativo/Isologotipo horizontal en una línea con bajada - Negativo.ai",
+      "sha256": "aa94fb991bac83d84e5df15fd8320cfe282405a3cb402604680b8e941de204a6",
+      "sourceGitBlob": "cf896365e8ee4ae46187e2cbac2d4a21d51d14ef"
+    },
+    {
+      "path": "originales/03-h1-bajada/negativo/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Negativo/Isologotipo horizontal en una línea con bajada - Negativo.png",
+      "sha256": "553e63bc10b9b3740475d22d1cb23d2c467d9eb8c0cea217c2c680e2243542b7",
+      "sourceGitBlob": "6797a47d3a53cfdba05e8c7fb83e8f48b36fafb3"
+    },
+    {
+      "path": "originales/03-h1-bajada/negativo/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/3. Isologotipo horizontal en una línea con bajada/Negativo/Isologotipo horizontal en una línea con bajada - Negativo.svg",
+      "sha256": "a128491541163adb0d0a258c1b7de0fb58114b98deda5c636512d7904ebff203",
+      "sourceGitBlob": "d8d1552ff05018ef0edb8b24b8949c165d756275"
+    },
+    {
+      "path": "originales/04-isotipo/byn/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/ByN/Isotipo - ByN - Pantone.ai",
+      "sha256": "f6c157a08bb55d45f22e0c0860f71e6740ffdd17989e6d0187315ce9e8035a6b",
+      "sourceGitBlob": "45a5e63648e8ce0632eefe7911d91d1a6b926152"
+    },
+    {
+      "path": "originales/04-isotipo/byn/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/ByN/Isotipo - ByN- CMYK.ai",
+      "sha256": "eecac4a9f04aea87b7add3c6518d6c9352b1197d41a4d8a8f2a9955446fecd03",
+      "sourceGitBlob": "d28ac7daabe23afe37bc79dd1327e7657c8c3462"
+    },
+    {
+      "path": "originales/04-isotipo/byn/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/ByN/Isotipo - ByN.ai",
+      "sha256": "e2238f273d05ca9023ba9639a52c0372dcf3f8bcc74b85aa4c0800e80dd7798f",
+      "sourceGitBlob": "79afdb52a874a0effe3aa79db63dfbef4a9c8940"
+    },
+    {
+      "path": "originales/04-isotipo/byn/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/ByN/Isotipo - ByN.jpg",
+      "sha256": "ad36af08157b034a1cebefc7fe1131873a4a9093a56393c2a6cc453736367346",
+      "sourceGitBlob": "d2d20d43de0dcbe5a94c94c3e2f0fa885a354c19"
+    },
+    {
+      "path": "originales/04-isotipo/byn/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/ByN/Isotipo - ByN.png",
+      "sha256": "1318b400e3abbfd30e1d08a6dac5c4b5c5b2977275b138ddedb4d9ac8fb1dab1",
+      "sourceGitBlob": "b3eb6f3290418865ec24917398a9654ef67c8d8b"
+    },
+    {
+      "path": "originales/04-isotipo/byn/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/ByN/Isotipo - ByN.svg",
+      "sha256": "1f9e999abeb4978c966f73307cd6741c053c433bdd4bfbd1158487e859a8b138",
+      "sourceGitBlob": "cb6b59f6064deba4ef0f44e79e3d139b30567971"
+    },
+    {
+      "path": "originales/04-isotipo/principal/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Color principal/Isotipo - Color principal - Pantone.ai",
+      "sha256": "bdf4c227b0ea0f9a812017deabbfb44a5dd4e1c46de7fae418cf5f70bdb48bf4",
+      "sourceGitBlob": "afba6fa7fa971bf7ba518202b29b4b43dc19846f"
+    },
+    {
+      "path": "originales/04-isotipo/principal/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Color principal/Isotipo - Color principal- CMYK.ai",
+      "sha256": "040aa005cf38dd01f81b01de416390e731adc4f5592fd941cbc358605153772d",
+      "sourceGitBlob": "fe3b35982bc063e1ddd88708eac87f141002c1f8"
+    },
+    {
+      "path": "originales/04-isotipo/principal/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Color principal/Isotipo - Color principal.ai",
+      "sha256": "cb87d7e298e05ac77393f2824a5c540c98abdfa566f8e9f79550cf4dd0b8f8b0",
+      "sourceGitBlob": "67518fea1066600310b1154ff026b5181e5f567f"
+    },
+    {
+      "path": "originales/04-isotipo/principal/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Color principal/Isotipo - Color principal.jpg",
+      "sha256": "49f9b61cbfe7bf7a917c91a4a19e9c1310402849468cde54dcafaba93a76c292",
+      "sourceGitBlob": "2ec39d07f60f9ee27ba6b840aa01ee349241efa3"
+    },
+    {
+      "path": "originales/04-isotipo/principal/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Color principal/Isotipo - Color principal.png",
+      "sha256": "7ddbbd6d4423ec8d71e5b32bb0f7cb489fea0573c755b0face3bd1fa0244d226",
+      "sourceGitBlob": "0f17a9ac41a9b07c9efa98ee9dc6437d7a887f74"
+    },
+    {
+      "path": "originales/04-isotipo/principal/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Color principal/Isotipo - Color principal.svg",
+      "sha256": "cc8a9805339f50f3b3b3ca9fb5d1a4f29c07fdfb122026aef9f8f0074c58a3ac",
+      "sourceGitBlob": "c44feab3829cf01db28dd20fa0c535be4c922705"
+    },
+    {
+      "path": "originales/04-isotipo/secundario/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Color secundario/Isotipo - Color secundario - Pantone.ai",
+      "sha256": "5dda3c4644b72308b5d146995ed25f38ce903da9d2d3de18b538f520b02f8a33",
+      "sourceGitBlob": "5d0a9f764cd9fcb35db6f49086149467e058a8e7"
+    },
+    {
+      "path": "originales/04-isotipo/secundario/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Color secundario/Isotipo - Color secundario- CMYK.ai",
+      "sha256": "71277f02908c61ea67a669845d8fc0697f01aa872762f0fd241e7a5c0c2dd998",
+      "sourceGitBlob": "16c96a7d909125cb634ac4f866ae05ee19aa46bc"
+    },
+    {
+      "path": "originales/04-isotipo/secundario/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Color secundario/Isotipo - Color secundario.ai",
+      "sha256": "0fec1db7630e19dd386e74f261cbf8e92a11da8d0a6bb6a94e74c88edc60bfc6",
+      "sourceGitBlob": "9e1a8bc175b6b52caa38a4ac11c3445fb53d0877"
+    },
+    {
+      "path": "originales/04-isotipo/secundario/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Color secundario/Isotipo - Color secundario.jpg",
+      "sha256": "d6b54e6182eb7abf4f2469967860e7e972a153b6cbee8e5d3504140eb209f6f6",
+      "sourceGitBlob": "a5198e6cf7a085ba0b34858cc9ca41676c709351"
+    },
+    {
+      "path": "originales/04-isotipo/secundario/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Color secundario/Isotipo - Color secundario.png",
+      "sha256": "62a638c07c1877070df86d65afd9d790bf38826c6b0820328c792d97ca20e65d",
+      "sourceGitBlob": "c10ad153ba3a7590825bdb33b5a5354f885a74dd"
+    },
+    {
+      "path": "originales/04-isotipo/secundario/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Color secundario/Isotipo - Color secundario.svg",
+      "sha256": "89d829786b2eb1499c49f8fd483a26da83fbce68fa6a6414d8a0b9d1c1131164",
+      "sourceGitBlob": "f586f12b683238b1074991dbc56b38ad41ad9882"
+    },
+    {
+      "path": "originales/04-isotipo/negativo/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Negativo/Isotipo - Negativo.ai",
+      "sha256": "dd5b2294b0c72967a41b82260941f641d088ed490bf2e8dd6c96fff9e59d9cc8",
+      "sourceGitBlob": "10760512091cb610fca3b796a3fbcb47ae214d46"
+    },
+    {
+      "path": "originales/04-isotipo/negativo/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Negativo/Isotipo - Negativo.png",
+      "sha256": "765747911dfd6c9c5117620be8f4b99c4a2932d2ab9d97dcf077cab3f44d63db",
+      "sourceGitBlob": "d78b4066a11bdd9b4cd5b1319c36da94dc9dfaf2"
+    },
+    {
+      "path": "originales/04-isotipo/negativo/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/4. Isotipo/Negativo/Isotipo - Negativo.svg",
+      "sha256": "2c5b4e2fb364b01b588c4661bea4d9a56578f7317517029708e6a4758f275bc1",
+      "sourceGitBlob": "b34fad80454477627d44d7309f347382fbad8f36"
+    },
+    {
+      "path": "originales/05-h2/byn/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/ByN/Isologotipo horizontal en dos líneas sin bajada - ByN - Pantone.ai",
+      "sha256": "8fe4a08f2e725f912e57ad88e1285bd4a03d649654f5bae6be4f7a832619819e",
+      "sourceGitBlob": "986e79ce46e54daaf7c47f46ce690dc694fb2ac2"
+    },
+    {
+      "path": "originales/05-h2/byn/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/ByN/Isologotipo horizontal en dos líneas sin bajada - ByN- CMYK.ai",
+      "sha256": "95f613d5f84cce3da33a3b78dd1fe6d7b7d651fd9d57212d327fa55a04cabdb4",
+      "sourceGitBlob": "9520e91e0b0e84ed55f7f0b1ca910ec8d4085c34"
+    },
+    {
+      "path": "originales/05-h2/byn/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/ByN/Isologotipo horizontal en dos líneas sin bajada - ByN.ai",
+      "sha256": "ec55072803e8066eb38132f1be48a93d8523823209ed8ab65a44e519bb0fcbf4",
+      "sourceGitBlob": "67265700460f5690d5bee48b8a56547a5f97efc0"
+    },
+    {
+      "path": "originales/05-h2/byn/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/ByN/Isologotipo horizontal en dos líneas sin bajada - ByN.jpg",
+      "sha256": "07ac0c40552d4dbe670c42696244ca29cae9d9a04d4e5228419849f86aa9f8b4",
+      "sourceGitBlob": "ee43f406a8a223e0619c1c0a4a640deea10f2ca7"
+    },
+    {
+      "path": "originales/05-h2/byn/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/ByN/Isologotipo horizontal en dos líneas sin bajada - ByN.png",
+      "sha256": "2aa45eedcd0853b99ee4e226092e707664f11ea135eddddead3ecde60ce8528d",
+      "sourceGitBlob": "62deac5448168f6de002fddd648d3db32ec87c8a"
+    },
+    {
+      "path": "originales/05-h2/byn/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/ByN/Isologotipo horizontal en dos líneas sin bajada - ByN.svg",
+      "sha256": "3da46a8449a235cd86f92cda5593f1c484b3dfd2dfbf61bc518523479cb1d52b",
+      "sourceGitBlob": "3dd361cc007d4494c19981d43b7de16dfe62b63f"
+    },
+    {
+      "path": "originales/05-h2/principal/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Color principal/Isologotipo horizontal en dos líneas sin bajada - Color principal - Pantone.ai",
+      "sha256": "34b26b00bb95407198e1ef69d138436b1e92ce3c4a8a10b921ece5e997f22c9b",
+      "sourceGitBlob": "ff253ef168dde66510e6fff45f2d7fc9cf3feddd"
+    },
+    {
+      "path": "originales/05-h2/principal/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Color principal/Isologotipo horizontal en dos líneas sin bajada - Color principal- CMYK.ai",
+      "sha256": "06a83c0f34e65457cd3f241f147833aa5238a5ba5c5aed6dff779964895cfe17",
+      "sourceGitBlob": "489c0c482b5c0f755f99c1d53efcf08c15dd406d"
+    },
+    {
+      "path": "originales/05-h2/principal/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Color principal/Isologotipo horizontal en dos líneas sin bajada - Color principal.ai",
+      "sha256": "6eac8dec7b71471a2a2175bf26cc87b63993295d006dd4b18257c91ad0e538ee",
+      "sourceGitBlob": "3c36a4481038bf7ec281330e880e8e43b4c45895"
+    },
+    {
+      "path": "originales/05-h2/principal/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Color principal/Isologotipo horizontal en dos líneas sin bajada - Color principal.jpg",
+      "sha256": "618813beb64ae69b972540f6c70ff5bf9713486262f73f998180841c949cf051",
+      "sourceGitBlob": "b40106ed750e0a15d2bb07726f51bdd6d4889cf3"
+    },
+    {
+      "path": "originales/05-h2/principal/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Color principal/Isologotipo horizontal en dos líneas sin bajada - Color principal.png",
+      "sha256": "627049d8f44c18ed0226bece068fa904db259ac1e62cd73208b90f598bf6d1b4",
+      "sourceGitBlob": "57a7469e1f1c8adb2baaf3afa374ad14f60d43fe"
+    },
+    {
+      "path": "originales/05-h2/principal/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Color principal/Isologotipo horizontal en dos líneas sin bajada - Color principal.svg",
+      "sha256": "6ecde1451cf3cdae1007ab70b394efd315a1f65c73f382722aea1f8ee4049f85",
+      "sourceGitBlob": "89ce47ad629d2f4e2ad61fa614d832ac24d1d813"
+    },
+    {
+      "path": "originales/05-h2/secundario/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Color secundario/Isologotipo horizontal en dos líneas sin bajada - Color secundario - Pantone.ai",
+      "sha256": "f7a9af5a2f1fc19e87010e6fe0334b5f311e939c5fab3108cdb077d78a3932b7",
+      "sourceGitBlob": "55b880b78a9b7de7b62f0a5032a757d3c5ed7e51"
+    },
+    {
+      "path": "originales/05-h2/secundario/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Color secundario/Isologotipo horizontal en dos líneas sin bajada - Color secundario- CMYK.ai",
+      "sha256": "2c1acff2d5906dec877f199c3086dda849a501bb7d2a2ea28eaa996a2ac6af1c",
+      "sourceGitBlob": "ea3a10e4391d7bb71ad660144a538ec2b1290a19"
+    },
+    {
+      "path": "originales/05-h2/secundario/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Color secundario/Isologotipo horizontal en dos líneas sin bajada - Color secundario.ai",
+      "sha256": "b5ee81980b8c57a094b2f9969ffd7b5ad8e7c1b103a8809e5d77afacf714bd5b",
+      "sourceGitBlob": "e6264a7e6711abf522590cd30ef93a2eacdd38a9"
+    },
+    {
+      "path": "originales/05-h2/secundario/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Color secundario/Isologotipo horizontal en dos líneas sin bajada - Color secundario.jpg",
+      "sha256": "5e7b8e38bd5630be9d7e291c0e6dc89a37298b47fd3cbf9911a46fa3bbe8cc6b",
+      "sourceGitBlob": "48695232070452ccc7599cf398c599d0e59369b6"
+    },
+    {
+      "path": "originales/05-h2/secundario/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Color secundario/Isologotipo horizontal en dos líneas sin bajada - Color secundario.png",
+      "sha256": "5487a4c20df31ba56c508ab53989e94f33208757353731084b3aa9137190e27a",
+      "sourceGitBlob": "6eb1f9ae2fde35e7189951cab7954adff9066ce1"
+    },
+    {
+      "path": "originales/05-h2/secundario/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Color secundario/Isologotipo horizontal en dos líneas sin bajada - Color secundario.svg",
+      "sha256": "ca9038170f5606f80015c4d1b2d4fdaa19d13bcc70e2a009c1090a5511d573c8",
+      "sourceGitBlob": "105ff11a2bdf1e744b2b972d091d444591c5cd0a"
+    },
+    {
+      "path": "originales/05-h2/negativo/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Negativo/Isologotipo horizontal en dos líneas sin bajada - Negativo.ai",
+      "sha256": "92342cf4695aef57360d504aca1122db3fd067f530ad134e12e64270f8b86774",
+      "sourceGitBlob": "89c165bcf6065b8f700013307fce0bff97da699e"
+    },
+    {
+      "path": "originales/05-h2/negativo/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Negativo/Isologotipo horizontal en dos líneas sin bajada - Negativo.png",
+      "sha256": "d051f3041662ee8b229f64e9099e39f01dc5ccdd2098a40a32c89884b64139e2",
+      "sourceGitBlob": "ce3d404d47ffa45b790a32b95f55725c240267e8"
+    },
+    {
+      "path": "originales/05-h2/negativo/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/5. Isologotipo horizontal en dos líneas sin bajada/Negativo/Isologotipo horizontal en dos líneas sin bajada - Negativo.svg",
+      "sha256": "c5522211dbe466e6d84647bf2f0663dd45cab8b7640f7b536b50c2633f74ec08",
+      "sourceGitBlob": "0c1e94db99a1daa5190e49eb74561a30107eee7b"
+    },
+    {
+      "path": "originales/06-vertical/byn/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/ByN/Isologotipo veritcal sin bajada - ByN - Pantone.ai",
+      "sha256": "7a5baf4523a509ec9806fc663f2396eb2602b03c82205451dab0c70e14c4a458",
+      "sourceGitBlob": "485fd9db63250cd30b0923a54dfe7af4236b8f58"
+    },
+    {
+      "path": "originales/06-vertical/byn/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/ByN/Isologotipo veritcal sin bajada - ByN- CMYK.ai",
+      "sha256": "a7db11b5531881c94763655312bbb0aecc464e300566894040ae715797ee1ca0",
+      "sourceGitBlob": "c466f80f27a6b388ad44af9368ad5afda7e663c3"
+    },
+    {
+      "path": "originales/06-vertical/byn/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/ByN/Isologotipo vertical sin bajada - ByN.ai",
+      "sha256": "5904e38a5fb892251104f08745f0e857a6f505344d2f430ab661b69a93afa3e4",
+      "sourceGitBlob": "2d97badc26fcf8ff0dcd4d083182f6e30b2e97d7"
+    },
+    {
+      "path": "originales/06-vertical/byn/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/ByN/Isologotipo vertical sin bajada - ByN.jpg",
+      "sha256": "647283fcac32dbd053bf2aa6c08c079484473b71e792ebcf348e629770242166",
+      "sourceGitBlob": "701284ff5794e021c52b526a2289b233b827150e"
+    },
+    {
+      "path": "originales/06-vertical/byn/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/ByN/Isologotipo vertical sin bajada - ByN.png",
+      "sha256": "389a53663ddf24784e8f275e5684423376b6f8b6d58dd67dd53279df688da41b",
+      "sourceGitBlob": "5024dfd288877fbcd90fc19b7ab74e82a64187f2"
+    },
+    {
+      "path": "originales/06-vertical/byn/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/ByN/Isologotipo vertical sin bajada - ByN.svg",
+      "sha256": "e8fdadcc4dfe657e37d9fde291705a92dad738d50442a2d3100a90c10f4bb65b",
+      "sourceGitBlob": "14da39c29a770cffe637476af2f7045d477cd4fc"
+    },
+    {
+      "path": "originales/06-vertical/principal/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Color principal/Isologotipo veritcal sin bajada - Color principal - Pantone.ai",
+      "sha256": "935a8f1877e3cdf045aa688f00d2e9f605cfb9984641f3a48444c9fa1fb02839",
+      "sourceGitBlob": "aa3ead97b97c8ae103b43a41be6da113cd7e1c6c"
+    },
+    {
+      "path": "originales/06-vertical/principal/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Color principal/Isologotipo veritcal sin bajada - Color principal- CMYK.ai",
+      "sha256": "4a72dab3668109a7e1bd0980f04b0fdd5f192bb07d6fb752428e87a77aeda683",
+      "sourceGitBlob": "2e04eca0586c4ab958af0376496497c3715364d7"
+    },
+    {
+      "path": "originales/06-vertical/principal/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Color principal/Isologotipo vertical sin bajada - Color principal.ai",
+      "sha256": "d8b77b3bd35b22222c65bfd8d68fdd5b9eeb3e2066d5616542e32a1a02ae41db",
+      "sourceGitBlob": "715c5a046e15458744d0affd7c2a1304553c4b8d"
+    },
+    {
+      "path": "originales/06-vertical/principal/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Color principal/Isologotipo vertical sin bajada - Color principal.jpg",
+      "sha256": "026fb34eb0ce65b0f7f32ecbfce6e4cda7ac2f3bf21b4700b86488842c177b96",
+      "sourceGitBlob": "c348be60cab5ee645894d6f3c81ae7bf3b574a24"
+    },
+    {
+      "path": "originales/06-vertical/principal/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Color principal/Isologotipo vertical sin bajada - Color principal.png",
+      "sha256": "f112cca063d186734c1efe34de4e1e57d75512935bc9935cc2ede47f21c5a849",
+      "sourceGitBlob": "320ecb564971b26937e3150f0e867942d4200486"
+    },
+    {
+      "path": "originales/06-vertical/principal/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Color principal/Isologotipo vertical sin bajada - Color principal.svg",
+      "sha256": "dcb02c066d98cb828451a361ba913981e678f98c80dd9701fcad1763956c9ecb",
+      "sourceGitBlob": "1bdac5afcd05f53baea1e36817c551e2004ae10d"
+    },
+    {
+      "path": "originales/06-vertical/secundario/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Color secundario/Isologotipo veritcal sin bajada - Color secundario - Pantone.ai",
+      "sha256": "bd40ffab44c041162eeb414fc301f0c5ffe8cc005f1c40788a4e587181472bd4",
+      "sourceGitBlob": "c912711be641cdb5bdeddedcab014c74a953fbe8"
+    },
+    {
+      "path": "originales/06-vertical/secundario/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Color secundario/Isologotipo veritcal sin bajada - Color secundario- CMYK.ai",
+      "sha256": "dbdadafa9bf9475d7a0ecab6a752f86b5afa89a1802d42044a054b35d118be67",
+      "sourceGitBlob": "c639f5cb26c2b07e4a6a8f6dc7efbd7450e95ef4"
+    },
+    {
+      "path": "originales/06-vertical/secundario/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Color secundario/Isologotipo vertical sin bajada - Color secundario.ai",
+      "sha256": "2a34957e1d14c1594190df0370657d868c758db96933dff8918ae0e79a709e4a",
+      "sourceGitBlob": "a0ab4ad66b6ee2525f512037e9b83807c641112e"
+    },
+    {
+      "path": "originales/06-vertical/secundario/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Color secundario/Isologotipo vertical sin bajada - Color secundario.jpg",
+      "sha256": "0a8dbd9dc2126f0c97d80b55438b46aeafedf3796ce7a0be4e3aa553f61fe17b",
+      "sourceGitBlob": "5270aa107f5d1954716017272001359f3cf8a83d"
+    },
+    {
+      "path": "originales/06-vertical/secundario/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Color secundario/Isologotipo vertical sin bajada - Color secundario.png",
+      "sha256": "af7dc23da65bab2bdd0e391408ea8b25e6a921e484500d0c08627c038cf8698b",
+      "sourceGitBlob": "b389868f5fb1eeeb556a90f16c9135dbaea3d197"
+    },
+    {
+      "path": "originales/06-vertical/secundario/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Color secundario/Isologotipo vertical sin bajada - Color secundario.svg",
+      "sha256": "ad8df13f8b9ba402bcfb496a682d36c173acd794c0dd1bae2f860d47c9fe5edb",
+      "sourceGitBlob": "4d63e1c98fb67642d42bdcbb5e20949cb25a084d"
+    },
+    {
+      "path": "originales/06-vertical/negativo/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Negativo/Isologotipo vertical sin bajada - Negativo.ai",
+      "sha256": "4d1bd68f61069a16187cd658d3972fcdb6773dd7d637c4f31109d19de42db619",
+      "sourceGitBlob": "7396fb15238c544ff20b6d9067d77500113e52a7"
+    },
+    {
+      "path": "originales/06-vertical/negativo/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Negativo/Isologotipo vertical sin bajada - Negativo.png",
+      "sha256": "e910b0b4c269a5de74bdbb020260e5c4a49f6cf8f1b37dd18ab9023eb6b0c955",
+      "sourceGitBlob": "1fd53976f3e8ab01286e69fccb5353f07a9ed8a5"
+    },
+    {
+      "path": "originales/06-vertical/negativo/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/6. Isologotipo veritcal sin bajada/Negativo/Isologotipo vertical sin bajada - Negativo.svg",
+      "sha256": "3904a32afbc56045bb6aeafab95c337fb058b0feeddb0b185098cd60be2a5078",
+      "sourceGitBlob": "23613175f85c45488481cd4a790a1acd7a3e59ae"
+    },
+    {
+      "path": "originales/07-h1/byn/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/ByN/Isologotipo horizontal en una línea sin bajada - ByN - Pantone.ai",
+      "sha256": "fce36cbe241acd9319b4b537fddefc10692cdeb4437102a01191a209449901cd",
+      "sourceGitBlob": "2b7d028c7d2a80cc5784d8d18011ac8f01de1bf6"
+    },
+    {
+      "path": "originales/07-h1/byn/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/ByN/Isologotipo horizontal en una línea sin bajada - ByN- CMYK.ai",
+      "sha256": "a0dcc30e4a747617f0a2159b8679ecdee46a79517e05e0b3b852e38309203bd3",
+      "sourceGitBlob": "39f887314be8817f59edbb6d01d201019fbe58f3"
+    },
+    {
+      "path": "originales/07-h1/byn/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/ByN/Isologotipo horizontal en una línea sin bajada - ByN.ai",
+      "sha256": "aa680a64f481e2ad46aa142236467fe0651dbc391e0d6c97cc9ceda030b9577d",
+      "sourceGitBlob": "c3f08e8167dc0be7db4a8b6e14c8dd1f5ef39571"
+    },
+    {
+      "path": "originales/07-h1/byn/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/ByN/Isologotipo horizontal en una línea sin bajada - ByN.jpg",
+      "sha256": "797e1a6a0e60a29a12f18356cc712f0012465a668a97c50622b5ca0bde929a67",
+      "sourceGitBlob": "fb47bde137dbcdfd762df4399c0731f1f6c10b5d"
+    },
+    {
+      "path": "originales/07-h1/byn/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/ByN/Isologotipo horizontal en una línea sin bajada - ByN.png",
+      "sha256": "bc3ddd2e8c01b4897958f168d2416505d89b5c8b632bcb6e361e987693fa5568",
+      "sourceGitBlob": "a0786cef250c13d602be08fbbe58197a7936d4e9"
+    },
+    {
+      "path": "originales/07-h1/byn/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/ByN/Isologotipo horizontal en una línea sin bajada - ByN.svg",
+      "sha256": "6ee20f8badb0b69dc1d991c1370167d4a9c0bcc247cad275ef1b649dc896bb8c",
+      "sourceGitBlob": "77b155058fc26899dcf6e415a695f11c05064d0a"
+    },
+    {
+      "path": "originales/07-h1/principal/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Color principal/Isologotipo horizontal en una línea sin bajada - Color principal - Pantone.ai",
+      "sha256": "01d3dc862183ac3d1e5896fe514e184363d7c1f1da63ce9b8e15525f5e336d43",
+      "sourceGitBlob": "4e58bed6ccd8d321003a39f3625981e07ce47b82"
+    },
+    {
+      "path": "originales/07-h1/principal/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Color principal/Isologotipo horizontal en una línea sin bajada - Color principal- CMYK.ai",
+      "sha256": "b8a9436ea5d661bc24c9c87c88a518298c685b7d7d971873374bae9703d25937",
+      "sourceGitBlob": "1f2fda06b70e251b8e9b5e1725d7393c1d70cb76"
+    },
+    {
+      "path": "originales/07-h1/principal/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Color principal/Isologotipo horizontal en una línea sin bajada - Color principal.ai",
+      "sha256": "cb7b32a51fc9f228cd75e93dfd1fde21b2a9f7c8cfba76d662f334d7beef8978",
+      "sourceGitBlob": "27b280c4d1028bbb537d41025c5ac7434e8c6a0a"
+    },
+    {
+      "path": "originales/07-h1/principal/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Color principal/Isologotipo horizontal en una línea sin bajada - Color principal.jpg",
+      "sha256": "1fb2118f79acecedd37aff7c9c55a7fc4242f239a9a12659512a1be7dfcc77e9",
+      "sourceGitBlob": "747ea7de94ba40c79049de52dfae9e47404b59f9"
+    },
+    {
+      "path": "originales/07-h1/principal/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Color principal/Isologotipo horizontal en una línea sin bajada - Color principal.png",
+      "sha256": "d0bb393840bade4c88572b69849a4423c3702f20cad09ccb1f1d3ce76ad3f308",
+      "sourceGitBlob": "6d97ed8977c287f62bfbca3a85efe05d80abdaf3"
+    },
+    {
+      "path": "originales/07-h1/principal/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Color principal/Isologotipo horizontal en una línea sin bajada - Color principal.svg",
+      "sha256": "43049c410563d665d5305af0bff2b576b4dcdd8fc06ae6721cdb7c139611942f",
+      "sourceGitBlob": "e7811ff10a8978813fe222bfbb49fa5619191f93"
+    },
+    {
+      "path": "originales/07-h1/secundario/logo-pantone.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Color secundario/Isologotipo horizontal en una línea sin bajada - Color secundario - Pantone.ai",
+      "sha256": "3cd3dd6295a3cf0e26fdf515812afe7d852e8f0ff8996fb6ad7fb1ec1fac72e1",
+      "sourceGitBlob": "e7f3815f6abdc7034c523f1a20373104303bf69f"
+    },
+    {
+      "path": "originales/07-h1/secundario/logo-cmyk.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Color secundario/Isologotipo horizontal en una línea sin bajada - Color secundario- CMYK.ai",
+      "sha256": "f01f1eee2dc4c31569935f9892a7c8b39bd843febed281120f08cd0adec6c846",
+      "sourceGitBlob": "f5623c275b5bf69afcef3f0168e59b6e9596c4ba"
+    },
+    {
+      "path": "originales/07-h1/secundario/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Color secundario/Isologotipo horizontal en una línea sin bajada - Color secundario.ai",
+      "sha256": "1dc2f8e873680f7069764563d4f912edfd75c9a973a2fb3af3ca34bcdd231763",
+      "sourceGitBlob": "230d42891466cd9344972f6aeeee339974e32b46"
+    },
+    {
+      "path": "originales/07-h1/secundario/logo.jpg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Color secundario/Isologotipo horizontal en una línea sin bajada - Color secundario.jpg",
+      "sha256": "d89955e98a674538cbadf94fdb4a71abaf200cd63ff818fd0ac66b4a691002c3",
+      "sourceGitBlob": "bd77810b24b28730e33862c0317d1a82485f759f"
+    },
+    {
+      "path": "originales/07-h1/secundario/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Color secundario/Isologotipo horizontal en una línea sin bajada - Color secundario.png",
+      "sha256": "cd083af9e7281745d1ed4b287dcc55b530984af7f04a7db9710e891d3dce8301",
+      "sourceGitBlob": "9ec799c22d3d6e433f0762fc95ead3496d1a1f2b"
+    },
+    {
+      "path": "originales/07-h1/secundario/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Color secundario/Isologotipo horizontal en una línea sin bajada - Color secundario.svg",
+      "sha256": "8d72ba0e2a4e23e447dcb5b3ca75d6ac0dd1425aee0483d959d85dabfc152426",
+      "sourceGitBlob": "5cdc4644abcee4a06efa7e575accc2b0aa01fe10"
+    },
+    {
+      "path": "originales/07-h1/negativo/logo.ai",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Negativo/Isologotipo horizontal en una línea sin bajada - Negativo.ai",
+      "sha256": "ce30aed018af9b116ed4054f8e198675bf2794667b7654b56972294a761e2a1d",
+      "sourceGitBlob": "9aac2d800cdbaeb40c98b84a80ff1a94ed627ac0"
+    },
+    {
+      "path": "originales/07-h1/negativo/logo.png",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Negativo/Isologotipo horizontal en una línea sin bajada - Negativo.png",
+      "sha256": "1f950e2fcde1f7e6f17051d6b7d932ae9772677f48a888e40f0265a92719a354",
+      "sourceGitBlob": "70bd903a295793d6250bf5d2adb9faa721ddd0e4"
+    },
+    {
+      "path": "originales/07-h1/negativo/logo.svg",
+      "originalPath": "shakespear_camino-selva-originales-de-marca_2026-09-18_2201/7. Isologotipo horizontal en una línea sin bajada/Negativo/Isologotipo horizontal en una línea sin bajada - Negativo.svg",
+      "sha256": "916a38b0f991da29eceb7d0d80a2598dc7701656ad587d5eb7eeac53ee5d4613",
+      "sourceGitBlob": "dd632651ae13de1ccc814c6cf027aad4011109cf"
+    }
+  ]
+}

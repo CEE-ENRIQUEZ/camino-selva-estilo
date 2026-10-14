@@ -10,3 +10,5 @@
 *.jpg binary
 *.jpeg binary
 *.zip binary
+# Conservar tambien los bytes originales de los SVG del estudio.
+originales/**/*.svg -text

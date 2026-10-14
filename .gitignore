@@ -1,5 +1,7 @@
 # Archivos de trabajo temporales y dependencias de las herramientas locales.
 /tmp/
+# Respaldo local de las rutas largas; la version distribuida esta en originales/.
+/shakespear_camino-selva-originales-de-marca_2026-09-18_2201/
 __pycache__/
 *.py[cod]
 
